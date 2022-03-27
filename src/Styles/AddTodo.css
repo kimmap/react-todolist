@@ -1,0 +1,25 @@
+@import url("./reset.css");
+
+.add-todo {
+  position: sticky;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+  /* background-color: lightblue; */
+}
+
+.todo-input {
+  height: 40px;
+  width: 100%;
+  padding-left: 12px;
+  padding-right: 12px;
+
+  font-size: 14px;
+
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+
+  box-sizing: border-box;
+
+  background-color: snow;
+}

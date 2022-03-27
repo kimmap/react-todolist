@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.title {
+  font-size: 20px;
+}
+
+.blog-icon {
+  height: 20px;
+}
+
+.blog-text {
+  padding-left: 3px;
+}
